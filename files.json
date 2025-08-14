@@ -1,14 +1,14 @@
 [
   {
-    "name": "File1.pdf",
+    "name": "File1",
     "url": "https://drive.google.com/uc?export=download&id=1DP299vx0SgEztCRrVdpaSq3srG83G0Vz"
   },
   {
-    "name": "File2.xlsx",
+    "name": "File2",
     "url": "https://docs.google.com/spreadsheets/d/1el2skXlPTL6RxCmB4Xmu4xOCqjCOUhVrykhqztD37rc/export?format=xlsx"
   },
   {
-    "name": "File3.pdf",
+    "name": "File3",
     "url": "https://drive.google.com/uc?export=download&id=1Gm6gYDLX9FV6U8BKUoIyykoFz-zeVMrJ"
   }
 ]
