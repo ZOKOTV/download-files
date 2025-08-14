@@ -1,0 +1,5 @@
+[
+  { "name": "File1.pdf", "url": "https://example.com/files/File1.pdf" },
+  { "name": "File2.zip", "url": "https://example.com/files/File2.zip" },
+  { "name": "File3.mp3", "url": "https://example.com/files/File3.mp3" }
+]
