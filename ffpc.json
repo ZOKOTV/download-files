@@ -1,1 +1,27 @@
-
+[
+  {
+    "name": "setting_msi5",
+    "url": "https://drive.google.com/uc?export=download&id=1hw1IGoVae44fSj1zmBRA_bdTlFhE9Psp",
+    "ext": "bat"
+  },
+  {
+    "name": "Msi5",
+    "url": "https://www.msi.com/Landing/appplayer",
+    "ext": "msi"
+  },
+  {
+    "name": "Windows Cleaner Pro",
+    "url": "https://drive.google.com/uc?export=download&id=18tYY9JBDuPTODIqnD1rTnnpKjsJRrz75",
+    "ext": "bat"
+  },
+  {
+    "name": "chi tiết Windows Cleaner Pro",
+    "url": "https://drive.google.com/uc?export=download&id=1X33z73G8FyZWU3M-GKwtW2QLpaLENyGa",
+    "ext": "txt"
+  },
+  {
+    "name": "reg mouse",
+    "url": "https://drive.google.com/uc?export=download&id=1-IGuvqlHNKVqWKytX7FoEuJ7hV-JRWdb",
+    "ext": "reg"
+  }
+]
