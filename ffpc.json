@@ -8,15 +8,5 @@
     "name": "Msi5",
     "url": "https://www.msi.com/Landing/appplayer",
     "ext": "msi"
-  },
-  {
-    "name": "Windows Clear Pro",
-    "url": "https://drive.google.com/uc?export=download&id=1wdlNV1KMgzLZ_Hx4yMnZEBkP7Lof-XIa",
-    "ext": "bat"
-  },
-  {
-    "name": "reg mouse",
-    "url": "https://drive.google.com/uc?export=download&id=1-IGuvqlHNKVqWKytX7FoEuJ7hV-JRWdb",
-    "ext": "reg"
   }
 ]
