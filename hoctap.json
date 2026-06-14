@@ -1,6 +1,7 @@
 [
   {
-    "name": "tạo json",
-    "url": "https://urljson.netlify.app/"
+    "name": "Json Url",
+    "url": "https://jsonurl.trandoi459.workers.dev/",
+    "ext": "bat"
   }
 ]
