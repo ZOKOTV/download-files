@@ -1,7 +1,8 @@
 [
   {
-    "name": "Json Url",
+    "name": "Tạo Json",
     "url": "https://jsonurl.trandoi459.workers.dev/",
+    "buttonText": "Link tạo json",
     "ext": "bat"
   }
 ]
