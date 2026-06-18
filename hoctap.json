@@ -4,5 +4,12 @@
     "url": "https://jsonurl.trandoi459.workers.dev/",
     "buttonText": "Link tạo json",
     "ext": "bat"
+  },
+  
+  {
+    "name": "Habit Tracker",
+    "url": "https://tracker.trandoi459.workers.dev/",
+    "buttonText": "Xem"
   }
 ]
+
